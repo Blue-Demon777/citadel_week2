@@ -1,6 +1,7 @@
 # citadel_week2
 
 Files to run :
+* Day1 to Day 4 W2Dx
 * Day 5: run_simulation.py
 * Day 6: run_simulation.py
 * Day 7: run_simulation.py
